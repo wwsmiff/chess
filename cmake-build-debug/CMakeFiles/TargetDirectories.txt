@@ -1,0 +1,3 @@
+/var/home/arvk/CLionProjects/chess/cmake-build-debug/CMakeFiles/chess.dir
+/var/home/arvk/CLionProjects/chess/cmake-build-debug/CMakeFiles/edit_cache.dir
+/var/home/arvk/CLionProjects/chess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
